@@ -9,7 +9,7 @@
   2. What data are you using, how did you collect it and what are its dimensions?
   3. What are your planned analyses and/or any initial findings.
 
-### Final Presentation
+### Progress Update Presentation
 
 * The presentation should have 5-8 slides that cover:
   1. What is your research question and hypothesis?
