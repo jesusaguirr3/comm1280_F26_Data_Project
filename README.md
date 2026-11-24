@@ -20,9 +20,9 @@ Interest rates also climbed throughout 2022, making construction more expensive 
 
 ## Two discoveries that shaped our project
 
-**The records told a misleading story.** Our initial analysis showed new construction permits climbing from 326 in 2016 to 10,281 in 2019. A thirtyfold increase certainly caught our attention, especially since the city consistently issued between 44,000 and 64,000 total permits each year during that period. Philadelphia had switched permit records systems, and the older records classified construction differently. We traced the transition to March 2020 and began our analysis in April 2020. Notebook 02 walks through this discovery.
+The records told a misleading story. Our initial analysis showed new construction permits climbing from 326 in 2016 to 10,281 in 2019. A thirtyfold increase certainly caught our attention, especially since the city consistently issued between 44,000 and 64,000 total permits each year during that period. Philadelphia had switched permit records systems, and the older records classified construction differently. We traced the transition to March 2020 and began our analysis in April 2020. Notebook 02 walks through this discovery.
 
-**Our comparison group fell apart.** We originally planned to compare residential construction with commercial construction, assuming the new policy left commercial properties untouched. However, a separate ordinance reduced the commercial abatement on the same date, and commercial permits experienced a similar spike, increasing by a factor of 5.6. Finding a comparison group that neither ordinance affected remains our biggest challenge.
+Our comparison group fell apart. We originally planned to compare residential construction with commercial construction, assuming the new policy left commercial properties untouched. However, a separate ordinance reduced the commercial abatement on the same date, and commercial permits experienced a similar spike, increasing by a factor of 5.6. Finding a comparison group that neither ordinance affected remains our biggest challenge.
 
 ## Getting around the repository
 
