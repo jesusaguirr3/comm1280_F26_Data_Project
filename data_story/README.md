@@ -1,13 +1,5 @@
-## Blog post an of your data story and creative output for COMM1280 Final Data Project
+# Data story
 
-* This folder should contain the files that contain the outputs of all your data analysis. 
+The file `data_story.md` tells the story behind Philadelphia's December 2021 permit rush. We wrote it for a general audience, so readers can follow our findings without digging through the notebooks or understanding the code behind our analysis.
 
-1. You should create an engaging data blog that stands alone (i.e. it doesn't require the reader to look over all your analysis notebooks).
-2. Your creative output that presents you data story/findings in an engaging way. This could be a video, poster, web application, data dashboard, board game, song, etc, etc.
-
-* Update this README file to describe the content.
-
-
-
-
-
+We are also developing a creative piece to accompany the article. We are currently considering two approaches: an interactive page that allows readers to move through the monthly permit counts and watch the December 2021 spike unfold, or a printed poster that uses the same chart as its centerpiece. Both approaches would bring the numbers to life and help readers visualize the scale of the rush and the decline that followed.
